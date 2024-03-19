@@ -1,0 +1,1 @@
+Gra w kolory polega na kliknięciu przycisku gdy wyświetlony kolor zgadza się z napisem np. napis "Czerwony" powinien być koloru czerwonego, jeśli klikniemy w odpowiednim momencie dostaniemy punkta, jeśli kolor zdążdy się zmienić to nie :)
